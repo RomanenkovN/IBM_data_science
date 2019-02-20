@@ -24,7 +24,7 @@
   
   How to Extract Data. 
   Below Notebook is used to extract data (First part of Notebook)
-  https://github.com/help4mukesh/Coursera_Capstone/blob/master/DSCapstone.ipynb
+  https://github.com/RomanenkovN/IBM_data_science/blob/master/DSCapstone.ipynb
   
   
      
